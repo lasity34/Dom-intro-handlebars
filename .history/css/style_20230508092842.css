@@ -27,12 +27,4 @@
   color: antiquewhite;
 }
 
-.widget_container {
-  display: flex;
-  justify-content: space-around;
-}
-
-.row {
-  width: 90%;
-}
 
